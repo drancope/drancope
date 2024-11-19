@@ -4,7 +4,6 @@
 
 ## Position and contact
 
-- Alumno de computación y robótica en Baza
 - Secondary School Teacher in Baza (Granada), Spain
 - drancope@gmail.com
 
