@@ -6,10 +6,11 @@
 
 - Secondary School Teacher in ![IES José de Mora](https://blogsaverroes.juntadeandalucia.es/iesjosedemora), Baza (Granada), Spain
 
-![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
+<a href="https://www.linkedin.com/in/drancope/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:drancope@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+
 ![profile count](https://komarev.com/ghpvc/?username=drancope&color=red)&nbsp;
-[![GitHub drancope](https://img.shields.io/github/followers/drancope?label=follow&style=social)](https://github.com/drancope)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+[![GitHub drancope](https://img.shields.io/github/followers/drancope?label=follow&style=social)](https://github.com/drancope)
 
 ## Personal interests
 
